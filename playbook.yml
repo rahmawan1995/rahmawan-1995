@@ -1,0 +1,7 @@
+- hosts: try
+
+  roles:
+    - server
+    - php
+    - mysql
+    - wordpress
